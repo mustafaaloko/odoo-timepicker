@@ -8,6 +8,7 @@
     """,
     'author': "Mustafa Ehsan",
     'website': "http://mustafaaloko.github.io",
+    'license': 'GPL-3',
     'category': 'Extra Tools',
     'version': '0.1',
     'depends': ['base'],
